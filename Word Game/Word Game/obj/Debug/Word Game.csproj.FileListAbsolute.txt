@@ -1,0 +1,6 @@
+c:\users\ozank_000\documents\visual studio 2013\Projects\Word Game\Word Game\bin\Debug\Word Game.exe.config
+c:\users\ozank_000\documents\visual studio 2013\Projects\Word Game\Word Game\bin\Debug\Word Game.exe
+c:\users\ozank_000\documents\visual studio 2013\Projects\Word Game\Word Game\bin\Debug\Word Game.pdb
+c:\users\ozank_000\documents\visual studio 2013\Projects\Word Game\Word Game\obj\Debug\Word Game.csprojResolveAssemblyReference.cache
+c:\users\ozank_000\documents\visual studio 2013\Projects\Word Game\Word Game\obj\Debug\Word Game.exe
+c:\users\ozank_000\documents\visual studio 2013\Projects\Word Game\Word Game\obj\Debug\Word Game.pdb

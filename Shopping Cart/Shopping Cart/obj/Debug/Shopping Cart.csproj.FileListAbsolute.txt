@@ -1,0 +1,6 @@
+c:\users\yiğit ozan kılıç\documents\visual studio 2013\Projects\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\Users\Yiğit Ozan Kılıç\documents\visual studio 2013\Projects\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\Users\Yiğit Ozan Kılıç\documents\visual studio 2013\Projects\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\Users\Yiğit Ozan Kılıç\documents\visual studio 2013\Projects\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csprojResolveAssemblyReference.cache
+C:\Users\Yiğit Ozan Kılıç\documents\visual studio 2013\Projects\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\Users\Yiğit Ozan Kılıç\documents\visual studio 2013\Projects\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
