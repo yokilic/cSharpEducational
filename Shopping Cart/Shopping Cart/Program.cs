@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Shopping_Cart
 {
@@ -10,7 +9,7 @@ namespace Shopping_Cart
     {
         static void Main(string[] args)
         {
-            ShoppingCart cart = new ShoppingCart();
+            Cart cart = new Cart();
             Order order = new Order();
             order.getInput();
 
@@ -19,7 +18,9 @@ namespace Shopping_Cart
                 cart.processOrder(order);
                 order = new Order();
                 order.getInput();
+                
             }
+
 
 
         }

@@ -5,18 +5,18 @@ using System.Text;
 
 namespace Shopping_Cart
 {
+    /// <summary>
+    /// Initializes a new Order Class 
+    /// </summary>
     public class Order
     {
-        public bool quit;
+
         public bool add;
         public bool delete;
-        string item;
+        public bool quit = false;
+        public string item;
 
-        public Order()
-        {
-            quit = false;
-        }
-
+      
         public void getInput()
         {
             Console.WriteLine("[command] [item] (command is a to add, d to delete, q to quit)");
@@ -41,6 +41,6 @@ namespace Shopping_Cart
 
         }
 
-
+       
     }
 }
